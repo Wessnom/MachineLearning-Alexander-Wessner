@@ -1,0 +1,28 @@
+- Introduktion / Problemställning
+    Vilket är problemet som skall lösas?
+    Teori, beskriva vilka delar av teorin som är relevanta för rapporten.
+    Jag behöver inte göra några härledningar eller bevis men skriv ner
+    relevanta formler och definitioner.
+
+- Data-analys (EDA)
+    Beskriv vilka sambad som finns i datamängden. Lyft bara fram de som jag faktiskt använder. Övrig information behöver inte någon mer utförlig analys i en sådan här kortare rapport. 
+
+- Modell
+    Beskriv algoritmer/modeller som använts samt vilka (hyper-)parametrar som använts.
+    Nämn alla modeller jag testar, beskriv i detalj den modell jag väljer att använda i slutändan (den som var bäst).
+
+
+- Resultat
+    Utvärdera modellen. Du kan jämföra modeller, tex i en tabell, men i löptexten så behöver jag bara beskriva den modell som jag valt att använda.
+    Se till att beskriva resultatet både i ord och i en figur eler python output.
+
+- Diskussion
+    Förklara kortakommanden och/eller begränsningar och resonera kring vad resultatet innebär för problemställningen. 
+
+Allmänt:
+
+Skriv inte kronologiskt. Skriv som resultaten varit kända hela tiden, dvs perspektivet är i efterhand och utförandet är i dåtid. 
+
+Skriv i löpande form, en annan person skall kunna läsa innehållet och förstå vad jag gjort och varför utan tillgång till Lab PM. 
+
+Några paragrafer i varje del räcker. Undvik pronomen som 'jag', 'vi' osv. Passiv röst är att föredra.
